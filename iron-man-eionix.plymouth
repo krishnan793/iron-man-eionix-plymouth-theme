@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=iron-man-eionix
+Description=This is a Plymouth theme tribute to iron man.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/iron-man-eionix
+ScriptFile=/usr/share/plymouth/themes/iron-man-eionix/iron-man-eionix.script
