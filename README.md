@@ -1,7 +1,7 @@
 # iron-man-eionix-plymouth-theme
 This is a Plymouth theme.
 
-[![Video](https://raw.githubusercontent.com/krishnan793/iron-man-eionix-plymouth-theme/master/iron-man-eionix.gif](https://www.youtube.com/watch?v=c6f478VBhtE)
+[![Video](https://raw.githubusercontent.com/krishnan793/iron-man-eionix-plymouth-theme/master/iron-man-eionix.gif)](https://www.youtube.com/watch?v=c6f478VBhtE)
 
 
 [Video] https://www.youtube.com/watch?v=c6f478VBhtE
